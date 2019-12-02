@@ -1,4 +1,4 @@
-import 'package:disease_app/ui/resources/constants.dart';
+import '../resources/constants.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
